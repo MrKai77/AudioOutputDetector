@@ -56,7 +56,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
         // Initialize the popup
         let dynamicNotch = DynamicNotchInfo(
-            systemImage: "cable.coaxial",
+            icon: Image(systemName: outputSystemImage),
             title: defaultOutputDevice.name,
             description: "CONNECTED"
         )

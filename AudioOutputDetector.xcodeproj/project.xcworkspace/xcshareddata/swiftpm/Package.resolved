@@ -1,5 +1,5 @@
 {
-  "originHash" : "c40e603d1da0683087b6b0ea2ffc18e67e6821453a2e708eb867222fe42e3742",
+  "originHash" : "907eb6b3fd480c7ae3b5739f7b50e99a7eea910dcc2adbc6a4a56fdb6e7e57b8",
   "pins" : [
     {
       "identity" : "dynamicnotchkit",
@@ -7,7 +7,7 @@
       "location" : "https://github.com/MrKai77/DynamicNotchKit",
       "state" : {
         "branch" : "main",
-        "revision" : "00df0e1a0c0503084bcf5e2d15267d2c9af769f4"
+        "revision" : "5d169ca9f18274ee6118fd50595d813c058047ed"
       }
     },
     {
